@@ -1,4 +1,7 @@
 dist
+<<<<<<< HEAD
 node_modules/
 .env
 .env.local
+=======
+>>>>>>> bf7451e2dd693d1616f4b168c535b186fc94ffb4
